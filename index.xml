@@ -9,10 +9,50 @@
     <description>Recent content on Cardano staking site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Aug 2021 14:46:08 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 11 Aug 2021 07:54:20 +0100</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How We Built This Website in 1 Hour</title>
+      <link>http://example.org/posts/how-we-built-this-website-in-1-hour/</link>
+      <pubDate>Wed, 11 Aug 2021 07:54:20 +0100</pubDate>
+      
+      <guid>http://example.org/posts/how-we-built-this-website-in-1-hour/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>My Second Post</title>
+      <link>http://example.org/posts/my-second-post/</link>
+      <pubDate>Tue, 10 Aug 2021 16:31:50 +0100</pubDate>
+      
+      <guid>http://example.org/posts/my-second-post/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>Cardano</title>
